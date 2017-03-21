@@ -1,9 +1,11 @@
 .navbar {
   display: inline-block;
-  margin: auto;
   width: 100%;
+  background-color: white;
 }
 
 li {
   display: inline;
+  padding: 10px;
+  font-family: "Franklin-ITC", sans-serif;
 }
